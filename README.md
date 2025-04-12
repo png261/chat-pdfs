@@ -1,4 +1,5 @@
 # chat-pdfs
+![image](https://github.com/user-attachments/assets/2dc9e971-60d3-413c-a14b-4d50d2acfe0c)
 ## Setup 
 ### Install dependencies
 ```
